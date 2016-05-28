@@ -1,2 +1,3 @@
 name: Ankit Kamboj, Freelance Consultant
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
